@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C__Test02.exe"
+			"path" : "c-linked-list-operation.exe"
 		},
 		{
-			"path" : "C__Test02.pdb"
+			"path" : "c-linked-list-operation.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -57,7 +57,7 @@
 			]
 		}
 	],
-	"id" : "C__Test02::@6890427a1f51a3e7e1df",
+	"id" : "c-linked-list-operation::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -77,8 +77,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "C__Test02",
-	"nameOnDisk" : "C__Test02.exe",
+	"name" : "c-linked-list-operation",
+	"nameOnDisk" : "c-linked-list-operation.exe",
 	"paths" : 
 	{
 		"build" : ".",

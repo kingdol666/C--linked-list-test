@@ -2,10 +2,6 @@
 // Created by kingdol on 2023/6/6.
 //
 
-#ifndef C__TEST02_NODE_H
-//#define C__TEST02_NODE_H
-
-
 class Node {
 public:
     int date;
@@ -20,5 +16,3 @@ public:
     static bool findNode(Node* (&node), int val);
 };
 
-
-#endif //C__TEST02_NODE_H

@@ -1,8 +1,8 @@
-# Install script for directory: D:/C++Pro/C++Test02
+# Install script for directory: D:/C++Pro/c-linked-list-operation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/C__Test02")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/c-linked-list-operation")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/C++Pro/C++Test02/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/C++Pro/c-linked-list-operation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

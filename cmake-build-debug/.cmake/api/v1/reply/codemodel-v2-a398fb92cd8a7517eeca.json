@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "C__Test02",
+					"name" : "c-linked-list-operation",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "C__Test02::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C__Test02-Debug-0b2b05d69bd7a8186287.json",
-					"name" : "C__Test02",
+					"id" : "c-linked-list-operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c-linked-list-operation-Debug-9713df6c1283a995f442.json",
+					"name" : "c-linked-list-operation",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/C++Pro/C++Test02/cmake-build-debug",
-		"source" : "D:/C++Pro/C++Test02"
+		"build" : "D:/C++Pro/c-linked-list-operation/cmake-build-debug",
+		"source" : "D:/C++Pro/c-linked-list-operation"
 	},
 	"version" : 
 	{
